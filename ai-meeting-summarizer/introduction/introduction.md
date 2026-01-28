@@ -8,17 +8,18 @@ Estimated Workshop Time: 1 hours 30 minutes
 
 *You may add an option video, using this format: [](youtube:YouTube video id)*
 
-  [](youtube:zNKxJjkq0Pw)
+  [](youtube:H-C5dH3w1Dg)
 
 ### Objectives
 
 *List objectives for the workshop*
 
 In this workshop, you will learn how to:
-* Provision
-* Setup
-* Load
-* Query
+
+* Build an event-driven pipeline: Object Storage → Events → Functions → AI Speech → Generative AI → Notifications.
+* Configure least-privilege IAM and enable AI Speech to write to the results bucket.
+* Deploy and test the Transcribe Function (creates Speech jobs) and Summary Function (Generative AI via model OCID).
+* Save transcripts/summaries to Object Storage and email results via OCI Notifications.
 
 ### Prerequisites (Optional)
 
@@ -26,20 +27,19 @@ In this workshop, you will learn how to:
 
 This lab assumes you have:
 * An Oracle account
-* All previous labs successfully completed
-
-*This is the "fold" - below items are collapsed by default*
-
-In general, the Introduction does not have Steps.
+* Administrator privileges or sufficient access rights to create and manage OKE resources.
+* Access to a command-line environment such as **OCI Cloud Shell** (or a local setup) with `oci` CLI configured for your tenancy.
 
 ## Learn More
 
 *(optional - include links to docs, white papers, blogs, etc)*
 
-* [URL text 1](http://docs.oracle.com)
-* [URL text 2](http://docs.oracle.com)
+* [Overview of Functions](https://docs.oracle.com/en-us/iaas/Content/Functions/Concepts/functionsoverview.htm)
+* [OCI Speech Documentation](https://docs.oracle.com/en-us/iaas/Content/speech/home.htm)
+* [OCI Generative AI Documentation](https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm)
+
+You may now **proceed to the next lab**.
 
 ## Acknowledgements
-* **Author** - <Name, Title, Group>
-* **Contributors** -  <Name, Group> -- optional
-* **Last Updated By/Date** - <Name, Month Year>
+* **Author** - **Josiah Oriendo**, Cloud Architect
+* **Last Updated By/Date** - Josiah Oriendo, February 2026
