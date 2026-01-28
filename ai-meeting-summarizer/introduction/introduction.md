@@ -2,9 +2,9 @@
 
 ## About this Workshop
 
-This introduction covers the complete "parent" workshop. Use this text to set up the story for the workshop. Be engaging - what will the learner get from spending their time on this workshop?
+In this hands-on workshop, you will build a meeting summarization flow using Oracle Cloud services. You’ll upload media to Object Storage, trigger Functions via Events, create AI Speech transcription jobs, summarize with the OCI Generative AI service using on-demand model OCIDs, and deliver results to users via Notifications. Along the way, you’ll apply least-privilege IAM and learn how OCI’s packaged AI services and partner models enable fast, secure outcomes without lock‑in
 
-Estimated Workshop Time: -- hours -- minutes (This estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.)
+Estimated Workshop Time: 1 hours 30 minutes
 
 *You may add an option video, using this format: [](youtube:YouTube video id)*
 
