@@ -12,8 +12,6 @@ Estimated Workshop Time: 1 hours 30 minutes
 
 ### Objectives
 
-*List objectives for the workshop*
-
 In this workshop, you will learn how to:
 
 * Build an event-driven pipeline: Object Storage → Events → Functions → AI Speech → Generative AI → Notifications.
@@ -26,13 +24,12 @@ In this workshop, you will learn how to:
 *List the prerequisites for this lab using the format below. Fill in whatever knowledge, accounts, etc. is needed to complete the lab. **Do NOT list** each previous lab as a prerequisite.*
 
 This lab assumes you have:
+
 * An Oracle account
 * Administrator privileges or sufficient access rights to create and manage OKE resources.
 * Access to a command-line environment such as **OCI Cloud Shell** (or a local setup) with `oci` CLI configured for your tenancy.
 
 ## Learn More
-
-*(optional - include links to docs, white papers, blogs, etc)*
 
 * [Overview of Functions](https://docs.oracle.com/en-us/iaas/Content/Functions/Concepts/functionsoverview.htm)
 * [OCI Speech Documentation](https://docs.oracle.com/en-us/iaas/Content/speech/home.htm)
@@ -41,5 +38,6 @@ This lab assumes you have:
 You may now **proceed to the next lab**.
 
 ## Acknowledgements
+
 * **Author** - **Josiah Oriendo**, Cloud Architect
 * **Last Updated By/Date** - Josiah Oriendo, February 2026
